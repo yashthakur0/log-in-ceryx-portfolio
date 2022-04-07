@@ -1,0 +1,9 @@
+body {
+    background-image: url("/src/img/main_bg.png");
+}
+
+.logo {
+    position: fixed;
+    top: 500px;
+    left: 315px;
+}
