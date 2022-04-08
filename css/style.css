@@ -1,9 +1,18 @@
 body {
     background-image: url("/src/img/main_bg.png");
+    width: 100%;
+    align-items: center;
 }
 
 .logo {
     position: fixed;
     top: 500px;
     left: 315px;
+}
+
+.dividend {
+    position: fixed;
+    top: 430px;
+    left: 985px;
+    align-items: ;    
 }
